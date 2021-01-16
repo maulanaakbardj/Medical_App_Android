@@ -1,0 +1,275 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:2:1-71:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\a0fae3d9013be8f69fa615280ce21ea3\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\db50d9c729baed83bc3da6fe28ac0e91\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\9f3ac530cd999c3dc276f567e709324b\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\fab2303f471c1f7a4f58d7e08634d45d\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\6d46698a742f52f41ff41848a4492ff0\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\5208b816abe6eb1a419e40aadc85eeb3\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\76c58db06d52adfdb529a329bd174a8e\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\40c57f1debdd611b6cc8c537ce0d409d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\ba068ff035c5a3369bcc539e4c0a3983\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\3d8105555c83e5f6b835b2d08d1f54c7\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\7dd8e228d4aa3461a42cda55b2114e70\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\31ccf9d71f7c0a2428074d63692b20e4\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\43a48fabb116b08b479f16b7ff36887a\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\f2d8ed1eae0c3af2c0d18eea0aaf0558\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\3802d302cd3a5eb560a29a38c80f83c7\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\59de375890b4c3592660d3c93dbff27e\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\3e18ae5ac183200cbb707fd9dc7feed7\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\0a6fcff0a6b1b9bf9c064aa4ef204471\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\cc355c5f29b13e1180b625eb3c723040\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\7acbad1329f8e3b6284e81b485a3cee2\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\92b3d4046ab6891d427a7838ffeb8a61\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\12f6e28635c6f23ab2935deebdc0822c\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\8e71b8d7925aa875ad98cc4323e178d8\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\7a5676daa4bf2b587f35f7f6125c545a\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\1ad003232ce20771195d3d339c6b8420\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\d48a370d209fd8961e419a33870ef2d8\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\85a586c95034234c16cf7743d16f1b7f\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\208fe0998dc053da51718d47f7f2b832\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\798620773e826ca68039352735a120db\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\bac69347f5f7d0400a3ddb0f621f8a4f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\d96ba8ae93e9a07e1658b89f9c45333c\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\5ddfb8e145910ccd8c0082a842036fc4\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\98c07ae8c5823fd3bdaa91112965dec8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\78f42912b2b79c0e9bc7b7bca72757d0\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:2:1-71:12
+INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:2:1-71:12
+		INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:2:1-71:12
+		INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:6:5-69:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\a0fae3d9013be8f69fa615280ce21ea3\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\a0fae3d9013be8f69fa615280ce21ea3\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\9f3ac530cd999c3dc276f567e709324b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\9f3ac530cd999c3dc276f567e709324b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\12f6e28635c6f23ab2935deebdc0822c\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\12f6e28635c6f23ab2935deebdc0822c\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\7a5676daa4bf2b587f35f7f6125c545a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\7a5676daa4bf2b587f35f7f6125c545a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\12f6e28635c6f23ab2935deebdc0822c\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:13:9-60
+	android:roundIcon
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.ujang.medical.activity.MainActivity
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:15:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.ujang.medical.activity.LoginActivity
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:23:9-27:55
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:26:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:27:13-52
+	android:configChanges
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:25:13-74
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:24:13-68
+activity#com.ujang.medical.activity.RegisterActivity
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:28:9-32:55
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:31:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:32:13-52
+	android:configChanges
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:29:13-71
+activity#com.ujang.medical.activity.ProfileActivity
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:34:13-70
+activity#com.ujang.medical.activity.HistoryActivity
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:36:9-38:52
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:37:13-70
+activity#com.ujang.medical.activity.MainDoctorActivity
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:39:9-41:52
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:40:13-73
+activity#com.ujang.medical.activity.BookDoctorSatu
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:42:9-44:52
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:43:13-69
+activity#com.ujang.medical.activity.BookDoctorDua
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:45:9-47:52
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:46:13-68
+activity#com.ujang.medical.activity.BookDoctorTiga
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:48:9-50:52
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:49:13-69
+activity#com.ujang.medical.activity.BookDoctorEmpat
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:52:13-70
+activity#com.ujang.medical.activity.BookKamarActivity
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:54:9-56:52
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:55:13-72
+activity#com.ujang.medical.activity.BookDoktorActivity
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:57:9-59:52
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:58:13-73
+activity#com.ujang.medical.activity.BookDoktorActivity_a
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:60:9-62:52
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:62:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:61:13-75
+activity#com.ujang.medical.activity.BookDoktorActivity_b
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:63:9-65:52
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:64:13-75
+activity#com.ujang.medical.activity.BookDoktorActivity_c
+ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:66:9-68:52
+	android:screenOrientation
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml:67:13-75
+uses-sdk
+INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\a0fae3d9013be8f69fa615280ce21ea3\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\a0fae3d9013be8f69fa615280ce21ea3\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\db50d9c729baed83bc3da6fe28ac0e91\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\db50d9c729baed83bc3da6fe28ac0e91\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\9f3ac530cd999c3dc276f567e709324b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\9f3ac530cd999c3dc276f567e709324b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\fab2303f471c1f7a4f58d7e08634d45d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\fab2303f471c1f7a4f58d7e08634d45d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\6d46698a742f52f41ff41848a4492ff0\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\6d46698a742f52f41ff41848a4492ff0\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\5208b816abe6eb1a419e40aadc85eeb3\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\5208b816abe6eb1a419e40aadc85eeb3\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\76c58db06d52adfdb529a329bd174a8e\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\76c58db06d52adfdb529a329bd174a8e\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\40c57f1debdd611b6cc8c537ce0d409d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\40c57f1debdd611b6cc8c537ce0d409d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\ba068ff035c5a3369bcc539e4c0a3983\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\ba068ff035c5a3369bcc539e4c0a3983\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\3d8105555c83e5f6b835b2d08d1f54c7\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\3d8105555c83e5f6b835b2d08d1f54c7\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\7dd8e228d4aa3461a42cda55b2114e70\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\7dd8e228d4aa3461a42cda55b2114e70\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\31ccf9d71f7c0a2428074d63692b20e4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\31ccf9d71f7c0a2428074d63692b20e4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\43a48fabb116b08b479f16b7ff36887a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\43a48fabb116b08b479f16b7ff36887a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\f2d8ed1eae0c3af2c0d18eea0aaf0558\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\f2d8ed1eae0c3af2c0d18eea0aaf0558\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\3802d302cd3a5eb560a29a38c80f83c7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\3802d302cd3a5eb560a29a38c80f83c7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\59de375890b4c3592660d3c93dbff27e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\59de375890b4c3592660d3c93dbff27e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\3e18ae5ac183200cbb707fd9dc7feed7\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\3e18ae5ac183200cbb707fd9dc7feed7\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\0a6fcff0a6b1b9bf9c064aa4ef204471\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\0a6fcff0a6b1b9bf9c064aa4ef204471\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\cc355c5f29b13e1180b625eb3c723040\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\cc355c5f29b13e1180b625eb3c723040\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\7acbad1329f8e3b6284e81b485a3cee2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\7acbad1329f8e3b6284e81b485a3cee2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\92b3d4046ab6891d427a7838ffeb8a61\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\92b3d4046ab6891d427a7838ffeb8a61\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\12f6e28635c6f23ab2935deebdc0822c\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\12f6e28635c6f23ab2935deebdc0822c\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\8e71b8d7925aa875ad98cc4323e178d8\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\8e71b8d7925aa875ad98cc4323e178d8\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\7a5676daa4bf2b587f35f7f6125c545a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\7a5676daa4bf2b587f35f7f6125c545a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\1ad003232ce20771195d3d339c6b8420\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\1ad003232ce20771195d3d339c6b8420\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\d48a370d209fd8961e419a33870ef2d8\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\d48a370d209fd8961e419a33870ef2d8\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\85a586c95034234c16cf7743d16f1b7f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\85a586c95034234c16cf7743d16f1b7f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\208fe0998dc053da51718d47f7f2b832\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\208fe0998dc053da51718d47f7f2b832\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\798620773e826ca68039352735a120db\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\798620773e826ca68039352735a120db\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\bac69347f5f7d0400a3ddb0f621f8a4f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\bac69347f5f7d0400a3ddb0f621f8a4f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\d96ba8ae93e9a07e1658b89f9c45333c\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\d96ba8ae93e9a07e1658b89f9c45333c\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\5ddfb8e145910ccd8c0082a842036fc4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\5ddfb8e145910ccd8c0082a842036fc4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\98c07ae8c5823fd3bdaa91112965dec8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\98c07ae8c5823fd3bdaa91112965dec8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\78f42912b2b79c0e9bc7b7bca72757d0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\AKBAR\.gradle\caches\transforms-2\files-2.1\78f42912b2b79c0e9bc7b7bca72757d0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data\Riset\ty\New folder\MedicalApp\app\src\main\AndroidManifest.xml
