@@ -9,6 +9,4 @@ Relational Schema
 
 ![Relational Schemas](https://user-images.githubusercontent.com/67249292/105963358-7eeff680-60b3-11eb-89b1-388493e4818c.png)
 # Demo
-https://youtu.be/WtKVT128VBg
-
-[![Talking-Bin-Smart-Bin-](https://img.youtube.com/vi/WtKVT128VBg/0.jpg)](https://www.youtube.com/watch?v=WtKVT128VBg.)
+[![Demo](https://img.youtube.com/vi/WtKVT128VBg/0.jpg)](https://www.youtube.com/watch?v=WtKVT128VBg.)
